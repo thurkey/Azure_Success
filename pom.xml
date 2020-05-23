@@ -54,9 +54,9 @@
         <version>1.9.1</version>  
         <configuration>
           <schemaVersion>V2</schemaVersion>
-          <resourceGroup>spring-boot-1590214284441-rg</resourceGroup>
+          <resourceGroup>myCoolApplication</resourceGroup>
           <authType>azure_cli</authType>
-          <appName>spring-boot-1590214284441</appName>
+          <appName>microsoftAzureTes</appName>
           <pricingTier>P1v2</pricingTier>
           <region>westeurope</region>
           <runtime>
